@@ -16,7 +16,7 @@ url: "http://sakelariev.github.io" # the base hostname & protocol for your site
 # Social media profiles - feel free to add more here
 twitter_username: sakelariev
 github_username:  Sakelariev
-facebook_username: Ivaylo Sakelariev
+facebook_username: ivaylo.sakelariev
 #instagram_username: beyonce
 #stackoverflow_url: https://
 # googleplus_username: BobMarley
@@ -24,10 +24,10 @@ facebook_username: Ivaylo Sakelariev
 #linkedin_url: https://
 
 # Address information
-address_street: 3034 Melrose Place
-address_city: Beverly Hills
-address_state: CA
-address_zip: 90201
+# address_street: 3034 Melrose Place
+# address_city: Beverly Hills
+# address_state: CA
+# address_zip: 90201
 
 # Build settings
 markdown: kramdown
