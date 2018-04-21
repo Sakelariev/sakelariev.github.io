@@ -10,8 +10,8 @@ title: Ivaylo Sakelariev
 email: ivaylo.sakelariev@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Data Scientist - Computational Psychology - Python Developer
-# baseurl: "/startbootstrap-freelancer-jekyll" # the subpath of your site, e.g. /blog
-url: "http://ivaylo.xyz" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://sakelariev.github.io" # the base hostname & protocol for your site
 
 # Social media profiles - feel free to add more here
 twitter_username: sakelariev
@@ -19,15 +19,15 @@ github_username:  Sakelariev
 facebook_username: Ivaylo Sakelariev
 #instagram_username: beyonce
 #stackoverflow_url: https://
-#googleplus_username: BobMarley
+# googleplus_username: BobMarley
 #skype_username: echo123
 #linkedin_url: https://
 
 # Address information
-# address_street: 3034 Melrose Place
-# address_city: Beverly Hills
-# address_state: CA
-# address_zip: 90201
+address_street: 3034 Melrose Place
+address_city: Beverly Hills
+address_state: CA
+address_zip: 90201
 
 # Build settings
 markdown: kramdown
