@@ -2,7 +2,7 @@
 layout: post
 title:  "Exploratory Data Analysis Wine"
 date:   2017-10-06 15:08:10 -0500
-img: img/portfolio/cabin.png
+img: img/portfolio/wine.png
 modalID: modalWine
 category: R Data Analysis
 ---
