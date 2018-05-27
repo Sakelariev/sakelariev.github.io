@@ -1,13 +1,16 @@
 ---
 layout: post
-title:  "Cake"
-date:   2016-02-05 15:08:10 -0500
-img: img/portfolio/cake.png
-modalID: modalCake
-category: Design
+title:  "Stroop Effect Testing"
+date:   2017-12-05 15:08:10 -0500
+img: img/portfolio/stroop.png
+modalID: modalStroop
+category: Inferential Statistics
 ---
-Use this area of the page to describe your project. The icon above is part of a free icon set by [Flat Icons][flat-icons-link]. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+In this Udacity project, I had to investigate a classic phenomenon from experimental psychology called the Stroop Effect. I learned a little bit about the experiment, created a hypothesis regarding the outcome of the task, then went through the task myself. I then looked at some data collected from others who have performed the same task and computed some statistics describing the results. Finally, I interpreted my results in terms of my hypotheses.
 
-In the Jekyll version of Freelancer, each portfolio item is a separate post that you can edit using markdown!
+You can check the project here: 
 
-[flat-icons-link]: https://sellfy.com/p/8Q9P/jV3VZ/
+[Stroop Effect Testing][flat-icons-link]
+
+
+[flat-icons-link]: https://cdn.rawgit.com/Sakelariev/Udacity-Data-Analyst-Nanodegree/92576152/Testing-Stroop-Effect/Stroop_effect_Sakelariev.nb.html
