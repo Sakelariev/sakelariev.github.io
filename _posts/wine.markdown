@@ -6,7 +6,7 @@ img: img/portfolio/wine.png
 modalID: modalWine
 category: R Data Analysis
 ---
-One of my project in the Udacity Data Analyst Nanodegree was to "Use R and apply exploratory data analysis techniques to explore relationships in one variable to multiple variables and to explore a selected data set for distributions, outliers, and anomalies". 
+One of my project in the Udacity Data Analyst Nanodegree. We had to "Use R and apply exploratory data analysis techniques to explore relationships in one variable to multiple variables and explore a selected data set for distributions, outliers, and anomalies". 
 We had a couple of data set options for this. I chose to work with the [Red Wine Quality Data set](https://www.google.com/url?q=https://s3.amazonaws.com/udacity-hosted-downloads/ud651/wineQualityReds.csv&sa=D&ust=1527428476240000)
 
 You can check the analysis here : [Exploratory-Data-Analysis-Wine][wine-link]
