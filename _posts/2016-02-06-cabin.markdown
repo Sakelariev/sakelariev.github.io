@@ -1,13 +1,15 @@
 ---
 layout: post
-title:  "Cabin"
-date:   2016-02-06 15:08:10 -0500
+title:  "Exploratory Data Analysis Wine"
+date:   2017-10-06 15:08:10 -0500
 img: img/portfolio/cabin.png
-modalID: modalCabin
-category: Design
+modalID: modalWine
+category: R Data Analysis
 ---
-Use this area of the page to describe your project. The icon above is part of a free icon set by [Flat Icons][flat-icons-link]. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+One of my project in the Udacity Data Analyst Nanodegree was to "Use R and apply exploratory data analysis techniques to explore relationships in one variable to multiple variables and to explore a selected data set for distributions, outliers, and anomalies". 
+We had a couple of data set options for this. I chose to work with the [Red Wine Quality Data set](https://www.google.com/url?q=https://s3.amazonaws.com/udacity-hosted-downloads/ud651/wineQualityReds.csv&sa=D&ust=1527428476240000)
 
-In the Jekyll version of Freelancer, each portfolio item is a separate post that you can edit using markdown!
+You can check the analysis here : [Exploratory-Data-Analysis-Wine][wine-link]
 
-[flat-icons-link]: https://sellfy.com/p/8Q9P/jV3VZ/
+
+[wine-link]: https://cdn.rawgit.com/Sakelariev/Udacity-Data-Analyst-Nanodegree/92576152/Exploratory-Data-Analysis-Wine/red_wine.html
