@@ -31,3 +31,5 @@ address_state: Bulgaria
 
 # Build settings
 markdown: kramdown
+plugins:
+  - jekyll-sitemap
